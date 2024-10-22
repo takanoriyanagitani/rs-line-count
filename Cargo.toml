@@ -3,6 +3,11 @@ name = "rs-line-count"
 version = "0.1.0"
 edition = "2021"
 
+description = "counts number of lines('\n')"
+license = "Apache-2.0"
+documentation = "https://docs.rs/crate/rs-line-count/latest"
+repository = "https://github.com/takanoriyanagitani/rs-line-count"
+
 [lints.rust]
 unsafe_code = "deny"
 
